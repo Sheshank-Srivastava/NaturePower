@@ -186,7 +186,11 @@ a:hover {
      margin-right: 50px;
      display: block;
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     padding: 95px;
+     margin-top: -120px;
  }
+
+ 
 
  #Blog-image {
 
@@ -210,7 +214,7 @@ a:hover {
 .Category-head  #head {
 
      text-align: center;
-     padding: 25px;
+     padding: 7;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
      color: #00004d;
      font-weight: bolder;
@@ -348,12 +352,102 @@ img {
     }
 
                                                    /** Blog Content Section **/   
-                                                   
-#Blog-Container{
 
-    background: linear-gradient(to top, #bbff44, #55eedc);
+                                                   /**Start Blog-1 Content Section**/
+                                                   
+.Blog-Container{
+
+    background-image: url('../Images/Blog\ Background.jpeg');
+    height: 75vh;
+    padding: 65px;
+    margin: 10px auto;
+
 }
- 
+
+.Blog-Content {
+
+    background: linear-gradient(to bottom, #ffffff, #ffffcc);
+    margin: 20px auto;
+     padding: 10px;
+     width: 100%;
+     height: 460px;
+     
+}
+
+h2 {
+
+     text-align: center;
+     font-size: 2em;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: #00004d;
+}
+
+#Blog-head {
+
+    color: #024604;
+    text-align: right;
+    margin-right: 115px;
+}
+
+#Blog-text{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: left;
+    padding: 25px;
+    display: block;
+    margin-left: 450px;
+    margin-right: 60px;
+    float: right;
+    margin-top: -260px;
+}
+
+.Blog-1 {
+
+    height: 250px;
+    width: 350px;
+    margin-left: 15px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#Blog-Post {
+
+    text-align: left;
+    font-family: monospace;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 65px;
+}
+
+                                                    /**End Blog-1 Content Section**/
+
+                                                    /**Start Blog-2 Content Section**/
+.Blog-2 Container {
+
+   background: linear-gradient(to top, #dddddd, #ffcc55);
+   height: 75vh;
+}                                                 
+
+                                                                                                 
+                                                    /**End Blog-2 Content Section**/
+
+                                                    /**Start Blog-3 Content Section**/
+
+
+                                                                                                                                                                        
+                                                    /**End Blog-3 Content Section**/
+                                                   
+                                                    /**Start Blog-4 Content Section**/
+
+                                                                                                                                                            
+                                                            
+                                                                                                         
+                                                                                                            
+                                                            
+                                                    /**End Blog-4 Content Section**/
+
+
 
 
 
